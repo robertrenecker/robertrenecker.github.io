@@ -18,10 +18,11 @@
   font-family: 'Source Code Pro', monospace;
   color: black;
   border-bottom: solid 5px #99ebff;
+  border-top:solid 5px white;
 
 }
 .col-md-2 .nav-bar-items:hover{
-  background-color: #99ebff;
+  border-top: solid 5px #99ebff;
   border-bottom: solid 5px white;
   color:black;
 
