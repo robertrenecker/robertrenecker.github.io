@@ -1,25 +1,13 @@
 body{
-  background-color: #cdd0d9;
-}
-.nav-bar-items{
-  font-weight:600;
-  font-size: 25px;
-  font-family: 'Source Code Pro', monospace;
-  border-radius: 25px;
-  border-color: black;
-  border-width: thick;
-  border: 2px solid;
-}
-.nav-bar-items:hover{
   background-color: white;
 }
 
-.col-sm-2{
-  font-style:italic;
-  color: #99ebff;
-}
 
-.container-homepage{
 
-  text-align: center;
+
+img {
+  width: 100%;
+  height:auto;
+
+
 }
