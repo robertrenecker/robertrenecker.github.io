@@ -1,4 +1,20 @@
-.contact-header{
-  text-align: center;
-  
+.contact-headerr{
+  padding-top: 5%;
+}
+
+.row-header{
+  align-items: center;
+}
+
+
+.message-box{
+  width: 800px;
+  height: 300px;
+  margin: 0 auto;
+  border-radius: 25px;
+  border: solid 3px black;
+}
+
+.message-contents{
+  padding-top: 10%;
 }
